@@ -1,0 +1,21 @@
+mode: set
+tudai2021.com/main.go:9.13,12.16 3 1
+tudai2021.com/main.go:12.16,14.3 1 1
+tudai2021.com/main.go:14.8,15.13 1 0
+tudai2021.com/model/entities.go:17.47,20.27 3 1
+tudai2021.com/model/entities.go:26.2,26.48 1 1
+tudai2021.com/model/entities.go:20.27,22.63 2 1
+tudai2021.com/model/entities.go:22.63,24.4 1 1
+tudai2021.com/model/entities.go:29.43,33.36 2 1
+tudai2021.com/model/entities.go:33.36,35.3 1 1
+tudai2021.com/model/entities.go:35.8,37.3 1 1
+tudai2021.com/model/entities.go:40.47,43.2 1 1
+tudai2021.com/model/entities.go:45.45,60.2 5 1
+tudai2021.com/model/entities.go:63.33,65.25 1 1
+tudai2021.com/model/entities.go:70.2,70.13 1 1
+tudai2021.com/model/entities.go:65.25,66.26 1 1
+tudai2021.com/model/entities.go:66.26,68.4 1 1
+tudai2021.com/model/entities.go:73.33,75.25 1 1
+tudai2021.com/model/entities.go:80.2,80.13 1 1
+tudai2021.com/model/entities.go:75.25,76.51 1 1
+tudai2021.com/model/entities.go:76.51,78.4 1 0
