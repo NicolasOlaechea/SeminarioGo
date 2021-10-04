@@ -25,7 +25,6 @@ func TestNewResult(t *testing.T) {
 		// acá agregar chequeos propios del test por ejemplo:
 		// assert.Equal(t, err == nil, testData.Success)
 		assert.Equal(t, err == nil, testData.Success)
-		assert.Equal(t, err != nil, testData.Success)
 		assert.Equal(t, r.Type, testData.Type)
 		assert.Equal(t, r.Value, testData.Value)
 		assert.Equal(t, r.Length, testData.Length)
